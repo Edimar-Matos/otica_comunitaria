@@ -37,7 +37,7 @@ html{
     
     
 }
-@media (max-width: 600px) {
+@media (max-width: 410px) {
     .hlogo{
          color:red;
          font-size: 40px;
